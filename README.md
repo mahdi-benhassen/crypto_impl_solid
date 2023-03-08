@@ -1,4 +1,4 @@
-# crypto_impl_solid
+# crypto_impl_solidity
 
 To integrate the token implemented using Solidity into a live blockchain, you would need to deploy the smart contract onto the blockchain. Here are the basic steps you would need to follow:
 
